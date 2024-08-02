@@ -12,6 +12,7 @@ help for {hi:gengam2}
 
 {title:Examples}
 
+{p 8 12}{inp:. stset failtime }{p_end}
 {p 8 12}{inp:. net install gengam2, from("https://raw.githubusercontent.com/timbulwidodostp/gengam2/main/gengam2") replace }{p_end}
 {p 8 12}{inp:. import excel "https://raw.githubusercontent.com/timbulwidodostp/gengam2/main/gengam2/gengam2.xlsx", sheet("Sheet1") firstrow clear}{p_end}
 {p 8 12}{inp:. gengam2 load bearings }{p_end}

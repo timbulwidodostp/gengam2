@@ -1,0 +1,27 @@
+{smcl}
+{* 31Jul2024}{...}
+{hline}
+help for {hi:gengam2}
+{hline}
+
+{title:Performs generalized gamma regression on cost data with tests for special case distributions}
+
+{title:Description}
+
+{p}{cmd:gengam2} Performs generalized gamma regression on cost data with tests for special case distributions
+
+{title:Examples}
+
+{p 8 12}{inp:. net install gengam2, from("https://raw.githubusercontent.com/timbulwidodostp/gengam2/main/gengam2") replace }{p_end}
+{p 8 12}{inp:. import excel "https://raw.githubusercontent.com/timbulwidodostp/gengam2/main/gengam2/gengam2.xlsx", sheet("Sheet1") firstrow clear}{p_end}
+{p 8 12}{inp:. gengam2 load bearings }{p_end}
+{p 8 12}{inp:. gengam2 load bearings, robust}{p_end}
+
+{title:Olah Data Semarang}
+
+{p 1 14}Timbul Widodo, STP:  {hi:[WA :] +6285227746673 (085227746673)},{p_end}
+{p 10 14}{hi:[-] Olah Data Semarang} {p_end}
+{p 10 14}{hi:[-] WA : +6285227746673 (085227746673)} {p_end}
+{p 10 14}{hi:[-] Receive Statistical Analysis Data Processing Services Using} {p_end}
+{p 10 14}{hi:[-] SPSS, AMOS, LISREL, Frontier 4.1, EVIEWS, SMARTPLS, STATA} {p_end}
+{p 10 14}{hi:[-] DEAP 2.1, ETC} {p_end}

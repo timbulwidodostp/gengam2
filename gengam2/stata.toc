@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p gengam2 Performs generalized gamma regression on cost data with tests for special case distributions Use gengam2 With STATA 18

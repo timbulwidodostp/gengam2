@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'gengam2': Performs generalized gamma regression on cost data with tests for special case distributions Use gengam2 With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f gengam2.ado
+f gengam2.hlp
